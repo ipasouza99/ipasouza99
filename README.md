@@ -24,3 +24,5 @@ Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-End** e **B
    <h4>Editor de código/IDE que uso:</h4>
  <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
   </div> 
+
+  
