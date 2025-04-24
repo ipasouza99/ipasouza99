@@ -25,4 +25,7 @@ Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-End** e **B
  <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
   </div> 
 
-  
+  <div>
+   <h4>Formas de contato:</h4>
+   <a href="https://www.linkedin.com/in/ipasouza99" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+  </div>
