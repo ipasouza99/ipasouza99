@@ -18,3 +18,9 @@ Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-End** e **B
    <h4>Minha Habilidade secundária:</h4>
  <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   </div> 
+
+  
+<div style ="display: inline_block"><br/>
+   <h4>Editor de código/IDE que uso:</h4>
+ <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
+  </div> 
