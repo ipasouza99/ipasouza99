@@ -2,8 +2,7 @@ Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-End** e **B
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipasouza99&theme=dracula&layout=compact)](https://github.com/ipasouza99/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipasouza99&theme=dracula&include_all_commits=true&layout=compact)](https://github.com/ipasouza99/github-readme-stats)
 ##
 **Minhas Habilidades principais:**
 <div style ="display: inline_block"><br/>
