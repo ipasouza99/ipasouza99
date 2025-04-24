@@ -10,6 +10,11 @@ Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-End** e **B
  <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
  <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
  <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
- <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">  
- 
- </div> 
+ <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"> 
+  </div> 
+  
+  
+  <div style ="display: inline_block"><br/>
+   <h4>Minha Habilidade secundária:</h4>
+ <img align="center" height="70" width="100" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  </div> 
