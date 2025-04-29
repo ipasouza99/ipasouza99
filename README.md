@@ -1,4 +1,4 @@
-Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-end** e **Back-end**. Sou Apaixonado em Tecnologia e suas nuances, sempre aberto em aprender algo novo sobre. Usá-las para desenvolver projetos e criar soluções inovadoras.
+Olá! Eu sou o **Ícaro de Souza Passos**. Sou desenvolvedor **Front-end** e **Back-end**. Sou Apaixonado em Tecnologia e seus detalhes , sempre aberto em aprender algo novo, assim, usá-las para desenvolver projetos e criar soluções inovadoras.
 
 ##
 
